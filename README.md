@@ -5,7 +5,7 @@ This repository contains the code and documentation for my final year project ti
 The goal of this project is to develop a robust system for detecting vehicles in aerial images. The system leverages deep learning models such as different version of YOLO to identify and classify different types of vehicles, including cars, buses, trucks, and minibuses.
 
 # Dataset
-The dataset used for this project is the Roundabout Aerial Images for Vehicle Detection from Kaggle"https://www.kaggle.com/datasets/javiersanchezsoriano/roundabout-aerial-images-for-vehicle-detection".It contains high-resolution images and corresponding XML annotation files for vehicle detection. The dataset is split into training and validation sets:
+The dataset used for this project is the Roundabout Aerial Images for Vehicle Detection from Kaggle  "https://www.kaggle.com/datasets/javiersanchezsoriano/roundabout-aerial-images-for-vehicle-detection". It contains high-resolution images and corresponding XML annotation files for vehicle detection. The dataset is split into training and validation sets:
 
 Training Set: 80% of the data (11,937 images)
 
