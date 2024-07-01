@@ -1,0 +1,5 @@
+train: C:/Users/Hp/Desktop/UNIVERSITY/FYP/FYP2/YOLO/dataset/train/images
+val: C:/Users/Hp/Desktop/UNIVERSITY/FYP/FYP2/YOLO/dataset/val/images
+
+nc: 4  # number of classes
+names: ['car', 'bus', 'truck', 'cycle']
