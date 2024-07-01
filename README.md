@@ -8,6 +8,7 @@ The goal of this project is to develop a robust system for detecting vehicles in
 The dataset used for this project is the Roundabout Aerial Images for Vehicle Detection from Kaggle"https://www.kaggle.com/datasets/javiersanchezsoriano/roundabout-aerial-images-for-vehicle-detection".It contains high-resolution images and corresponding XML annotation files for vehicle detection. The dataset is split into training and validation sets:
 
 Training Set: 80% of the data (11,937 images)
+
 Validation Set: 20% of the data (2,985 images)
  
 # Models
